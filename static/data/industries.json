@@ -1,0 +1,368 @@
+{
+ "counts": [
+  {
+   "industry": "Finanzas",
+   "clubs": 11
+  },
+  {
+   "industry": "Apuestas",
+   "clubs": 10
+  },
+  {
+   "industry": "Alimentos y bebidas",
+   "clubs": 1
+  },
+  {
+   "industry": "Construcción",
+   "clubs": 1
+  },
+  {
+   "industry": "Gubernamental",
+   "clubs": 1
+  },
+  {
+   "industry": "Organismos y gremios",
+   "clubs": 1
+  },
+  {
+   "industry": "Química y plásticos",
+   "clubs": 1
+  },
+  {
+   "industry": "Retail y e-commerce",
+   "clubs": 1
+  },
+  {
+   "industry": "Salud",
+   "clubs": 1
+  },
+  {
+   "industry": "Servicios",
+   "clubs": 1
+  },
+  {
+   "industry": "Sin sponsor",
+   "clubs": 1
+  }
+ ],
+ "groups": [
+  {
+   "label": "Apuestas",
+   "isBet": true,
+   "clubs": [
+    {
+     "team": {
+      "id": "t846",
+      "name": "Argentinos Juniors",
+      "crest": "crests/argentinos-juniors.png"
+     },
+     "sponsor": "Mr. Bet",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t540",
+      "name": "Boca Juniors",
+      "crest": "crests/boca-juniors.png"
+     },
+     "sponsor": "Betsson",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t2578",
+      "name": "Huracán",
+      "crest": "crests/huracan.png"
+     },
+     "sponsor": "Mr. Bet",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t1243",
+      "name": "Independiente",
+      "crest": "crests/independiente.png"
+     },
+     "sponsor": "Sportsbet.io",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t8627",
+      "name": "Independiente Rivadavia",
+      "crest": "crests/independiente-rivadavia.png"
+     },
+     "sponsor": "Sports Bet AR",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t1095",
+      "name": "Newell's Old Boys",
+      "crest": "crests/newell-s-old-boys.png"
+     },
+     "sponsor": "City Center",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t986",
+      "name": "Racing Club",
+      "crest": "crests/racing-club.png"
+     },
+     "sponsor": "Betsson",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t608",
+      "name": "River Plate",
+      "crest": "crests/river-plate.png"
+     },
+     "sponsor": "Betano",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t745",
+      "name": "Rosario Central",
+      "crest": "crests/rosario-central.png"
+     },
+     "sponsor": "City Center",
+     "industry": "Apuestas",
+     "isBet": true
+    },
+    {
+     "team": {
+      "id": "t2549",
+      "name": "San Lorenzo",
+      "crest": "crests/san-lorenzo.png"
+     },
+     "sponsor": "Casino Buenos Aires",
+     "industry": "Apuestas",
+     "isBet": true
+    }
+   ]
+  },
+  {
+   "label": "Finanzas",
+   "isBet": false,
+   "clubs": [
+    {
+     "team": {
+      "id": "t8621",
+      "name": "Aldosivi",
+      "crest": "crests/aldosivi.png"
+     },
+     "sponsor": "Rapicuotas",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t4671",
+      "name": "Atlético Tucumán",
+      "crest": "crests/atletico-tucuman.png"
+     },
+     "sponsor": "Caja Popular de Ahorros",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t2451",
+      "name": "Banfield",
+      "crest": "crests/banfield.png"
+     },
+     "sponsor": "Rapicuotas",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t1313",
+      "name": "Belgrano",
+      "crest": "crests/belgrano.png"
+     },
+     "sponsor": "Macro",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t10752",
+      "name": "Central Córdoba (Santiago del Estero)",
+      "crest": "crests/central-cordoba-santiago-del-estero.png"
+     },
+     "sponsor": "Banco Santiago",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t8625",
+      "name": "Defensa y Justicia",
+      "crest": "crests/defensa-y-justicia.png"
+     },
+     "sponsor": "Rapicuotas",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t927",
+      "name": "Estudiantes de La Plata",
+      "crest": "crests/estudiantes-de-la-plata.png"
+     },
+     "sponsor": "Supervielle",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t10754",
+      "name": "Gimnasia Mendoza",
+      "crest": "crests/gimnasia-mendoza.png"
+     },
+     "sponsor": "Macro",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t3638",
+      "name": "Instituto",
+      "crest": "crests/instituto.png"
+     },
+     "sponsor": "Macro",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t3579",
+      "name": "Platense",
+      "crest": "crests/platense.png"
+     },
+     "sponsor": "Esco",
+     "industry": "Finanzas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t2580",
+      "name": "Tigre",
+      "crest": "crests/tigre.png"
+     },
+     "sponsor": "Macro",
+     "industry": "Finanzas",
+     "isBet": false
+    }
+   ]
+  },
+  {
+   "label": "Otros",
+   "isBet": false,
+   "clubs": [
+    {
+     "team": {
+      "id": "t9280",
+      "name": "Barracas Central",
+      "crest": "crests/barracas-central.png"
+     },
+     "sponsor": null,
+     "industry": "Sin sponsor",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t9319",
+      "name": "Deportivo Riestra",
+      "crest": "crests/deportivo-riestra.png"
+     },
+     "sponsor": "Speed Unlimited",
+     "industry": "Alimentos y bebidas",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t15362",
+      "name": "Estudiantes Río Cuarto",
+      "crest": "crests/estudiantes-rio-cuarto.png"
+     },
+     "sponsor": "Deportes Río Cuarto",
+     "industry": "Gubernamental",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t1392",
+      "name": "Gimnasia La Plata",
+      "crest": "crests/gimnasia-la-plata.png"
+     },
+     "sponsor": "Correo OCA",
+     "industry": "Servicios",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t2473",
+      "name": "Lanús",
+      "crest": "crests/lanus.png"
+     },
+     "sponsor": "Mapei",
+     "industry": "Química y plásticos",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t8629",
+      "name": "Sarmiento",
+      "crest": "crests/sarmiento.png"
+     },
+     "sponsor": "Naldo",
+     "industry": "Retail y e-commerce",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t1071",
+      "name": "Talleres de Córdoba",
+      "crest": "crests/talleres-de-cordoba.png"
+     },
+     "sponsor": "Holcim",
+     "industry": "Construcción",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t6374",
+      "name": "Unión Santa Fe",
+      "crest": "crests/union-santa-fe.png"
+     },
+     "sponsor": "OSPAT",
+     "industry": "Organismos y gremios",
+     "isBet": false
+    },
+    {
+     "team": {
+      "id": "t570",
+      "name": "Vélez Sarsfield",
+      "crest": "crests/velez-sarsfield.png"
+     },
+     "sponsor": "Saphirus",
+     "industry": "Salud",
+     "isBet": false
+    }
+   ]
+  }
+ ]
+}

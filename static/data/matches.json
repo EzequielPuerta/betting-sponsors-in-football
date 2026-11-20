@@ -1,0 +1,6002 @@
+[
+ {
+  "id": "g2614373",
+  "round": 1,
+  "date": "2026-07-23",
+  "weekday": "jueves",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614375",
+  "round": 1,
+  "date": "2026-07-23",
+  "weekday": "jueves",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 3
+  },
+  "goals": 5,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614363",
+  "round": 1,
+  "date": "2026-07-23",
+  "weekday": "jueves",
+  "time": "21:45",
+  "hour": 21.75,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614370",
+  "round": 1,
+  "date": "2026-07-24",
+  "weekday": "viernes",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614367",
+  "round": 1,
+  "date": "2026-07-24",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614372",
+  "round": 1,
+  "date": "2026-07-24",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614368",
+  "round": 1,
+  "date": "2026-07-24",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614376",
+  "round": 1,
+  "date": "2026-07-24",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614374",
+  "round": 1,
+  "date": "2026-07-25",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614366",
+  "round": 1,
+  "date": "2026-07-25",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614371",
+  "round": 1,
+  "date": "2026-07-25",
+  "weekday": "sábado",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614369",
+  "round": 1,
+  "date": "2026-07-25",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614377",
+  "round": 1,
+  "date": "2026-07-26",
+  "weekday": "domingo",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614365",
+  "round": 1,
+  "date": "2026-07-26",
+  "weekday": "domingo",
+  "time": "17:15",
+  "hour": 17.25,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614364",
+  "round": 1,
+  "date": "2026-07-26",
+  "weekday": "domingo",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614379",
+  "round": 2,
+  "date": "2026-07-28",
+  "weekday": "martes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614387",
+  "round": 2,
+  "date": "2026-07-28",
+  "weekday": "martes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614388",
+  "round": 2,
+  "date": "2026-07-28",
+  "weekday": "martes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614390",
+  "round": 2,
+  "date": "2026-07-28",
+  "weekday": "martes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614392",
+  "round": 2,
+  "date": "2026-07-29",
+  "weekday": "miércoles",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614385",
+  "round": 2,
+  "date": "2026-07-29",
+  "weekday": "miércoles",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614391",
+  "round": 2,
+  "date": "2026-07-29",
+  "weekday": "miércoles",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614381",
+  "round": 2,
+  "date": "2026-07-29",
+  "weekday": "miércoles",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614382",
+  "round": 2,
+  "date": "2026-07-30",
+  "weekday": "jueves",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 3
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614386",
+  "round": 2,
+  "date": "2026-07-30",
+  "weekday": "jueves",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614378",
+  "round": 2,
+  "date": "2026-07-30",
+  "weekday": "jueves",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Único Madre de Ciudades",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614383",
+  "round": 2,
+  "date": "2026-07-30",
+  "weekday": "jueves",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614384",
+  "round": 2,
+  "date": "2026-08-05",
+  "weekday": "miércoles",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614389",
+  "round": 2,
+  "date": "2026-08-05",
+  "weekday": "miércoles",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614380",
+  "round": 2,
+  "date": "2026-08-06",
+  "weekday": "jueves",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614399",
+  "round": 3,
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "time": "15:30",
+  "hour": 15.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614405",
+  "round": 3,
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "time": "15:30",
+  "hour": 15.5,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614394",
+  "round": 3,
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614404",
+  "round": 3,
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614403",
+  "round": 3,
+  "date": "2026-08-01",
+  "weekday": "sábado",
+  "time": "20:30",
+  "hour": 20.5,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 3
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614393",
+  "round": 3,
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614401",
+  "round": 3,
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614395",
+  "round": 3,
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614402",
+  "round": 3,
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614398",
+  "round": 3,
+  "date": "2026-08-02",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614406",
+  "round": 3,
+  "date": "2026-08-03",
+  "weekday": "lunes",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614396",
+  "round": 3,
+  "date": "2026-08-03",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614397",
+  "round": 3,
+  "date": "2026-08-03",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 4
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614400",
+  "round": 3,
+  "date": "2026-08-03",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Alfredo Terrera",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614407",
+  "round": 3,
+  "date": "2026-08-03",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614421",
+  "round": 4,
+  "date": "2026-08-07",
+  "weekday": "viernes",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614417",
+  "round": 4,
+  "date": "2026-08-07",
+  "weekday": "viernes",
+  "time": "21:45",
+  "hour": 21.75,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614415",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614416",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614420",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614413",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614410",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614412",
+  "round": 4,
+  "date": "2026-08-08",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614408",
+  "round": 4,
+  "date": "2026-08-09",
+  "weekday": "domingo",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614414",
+  "round": 4,
+  "date": "2026-08-09",
+  "weekday": "domingo",
+  "time": "17:45",
+  "hour": 17.75,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614422",
+  "round": 4,
+  "date": "2026-08-09",
+  "weekday": "domingo",
+  "time": "17:45",
+  "hour": 17.75,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614419",
+  "round": 4,
+  "date": "2026-08-09",
+  "weekday": "domingo",
+  "time": "20:15",
+  "hour": 20.25,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614418",
+  "round": 4,
+  "date": "2026-08-10",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614409",
+  "round": 4,
+  "date": "2026-08-10",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614411",
+  "round": 4,
+  "date": "2026-08-11",
+  "weekday": "martes",
+  "time": "21:00",
+  "hour": 21.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 3
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614434",
+  "round": 5,
+  "date": "2026-08-14",
+  "weekday": "viernes",
+  "time": "20:30",
+  "hour": 20.5,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614430",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614432",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614423",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 4
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 0
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614424",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614435",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614426",
+  "round": 5,
+  "date": "2026-08-15",
+  "weekday": "sábado",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614437",
+  "round": 5,
+  "date": "2026-08-16",
+  "weekday": "domingo",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614433",
+  "round": 5,
+  "date": "2026-08-16",
+  "weekday": "domingo",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614429",
+  "round": 5,
+  "date": "2026-08-16",
+  "weekday": "domingo",
+  "time": "20:15",
+  "hour": 20.25,
+  "venue": "Alfredo Terrera",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614431",
+  "round": 5,
+  "date": "2026-08-16",
+  "weekday": "domingo",
+  "time": "20:15",
+  "hour": 20.25,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614436",
+  "round": 5,
+  "date": "2026-08-17",
+  "weekday": "lunes",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614427",
+  "round": 5,
+  "date": "2026-08-17",
+  "weekday": "lunes",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 3
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614425",
+  "round": 5,
+  "date": "2026-08-17",
+  "weekday": "lunes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614428",
+  "round": 5,
+  "date": "2026-08-17",
+  "weekday": "lunes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614446",
+  "round": 6,
+  "date": "2026-08-21",
+  "weekday": "viernes",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 3
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614448",
+  "round": 6,
+  "date": "2026-08-21",
+  "weekday": "viernes",
+  "time": "20:00",
+  "hour": 20.0,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614447",
+  "round": 6,
+  "date": "2026-08-22",
+  "weekday": "sábado",
+  "time": "16:00",
+  "hour": 16.0,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614449",
+  "round": 6,
+  "date": "2026-08-22",
+  "weekday": "sábado",
+  "time": "16:00",
+  "hour": 16.0,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 3
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614445",
+  "round": 6,
+  "date": "2026-08-22",
+  "weekday": "sábado",
+  "time": "18:30",
+  "hour": 18.5,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614451",
+  "round": 6,
+  "date": "2026-08-22",
+  "weekday": "sábado",
+  "time": "21:00",
+  "hour": 21.0,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614452",
+  "round": 6,
+  "date": "2026-08-22",
+  "weekday": "sábado",
+  "time": "21:00",
+  "hour": 21.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614439",
+  "round": 6,
+  "date": "2026-08-23",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614441",
+  "round": 6,
+  "date": "2026-08-23",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614442",
+  "round": 6,
+  "date": "2026-08-23",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614438",
+  "round": 6,
+  "date": "2026-08-23",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614444",
+  "round": 6,
+  "date": "2026-08-23",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614450",
+  "round": 6,
+  "date": "2026-08-24",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614440",
+  "round": 6,
+  "date": "2026-08-24",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614443",
+  "round": 6,
+  "date": "2026-08-24",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614453",
+  "round": 7,
+  "date": "2026-08-28",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 4
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614457",
+  "round": 7,
+  "date": "2026-08-28",
+  "weekday": "viernes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614459",
+  "round": 7,
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614467",
+  "round": 7,
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614461",
+  "round": 7,
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614455",
+  "round": 7,
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614462",
+  "round": 7,
+  "date": "2026-08-29",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614464",
+  "round": 7,
+  "date": "2026-08-30",
+  "weekday": "domingo",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 3
+  },
+  "goals": 5,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614465",
+  "round": 7,
+  "date": "2026-08-30",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614456",
+  "round": 7,
+  "date": "2026-08-30",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 3
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614463",
+  "round": 7,
+  "date": "2026-08-30",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614458",
+  "round": 7,
+  "date": "2026-08-31",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614460",
+  "round": 7,
+  "date": "2026-08-31",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614454",
+  "round": 7,
+  "date": "2026-08-31",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614466",
+  "round": 7,
+  "date": "2026-08-31",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614482",
+  "round": 8,
+  "date": "2026-09-04",
+  "weekday": "viernes",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614470",
+  "round": 8,
+  "date": "2026-09-04",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614481",
+  "round": 8,
+  "date": "2026-09-04",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614478",
+  "round": 8,
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "time": "13:30",
+  "hour": 13.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614476",
+  "round": 8,
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614472",
+  "round": 8,
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "time": "16:30",
+  "hour": 16.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614474",
+  "round": 8,
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614469",
+  "round": 8,
+  "date": "2026-09-05",
+  "weekday": "sábado",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614468",
+  "round": 8,
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614471",
+  "round": 8,
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614473",
+  "round": 8,
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Alfredo Terrera",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614479",
+  "round": 8,
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614480",
+  "round": 8,
+  "date": "2026-09-06",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614477",
+  "round": 8,
+  "date": "2026-09-07",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614475",
+  "round": 8,
+  "date": "2026-09-07",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 2
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614490",
+  "round": 9,
+  "date": "2026-09-11",
+  "weekday": "viernes",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614487",
+  "round": 9,
+  "date": "2026-09-11",
+  "weekday": "viernes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614486",
+  "round": 9,
+  "date": "2026-09-11",
+  "weekday": "viernes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614489",
+  "round": 9,
+  "date": "2026-09-12",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614494",
+  "round": 9,
+  "date": "2026-09-12",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 4
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 3
+  },
+  "goals": 7,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614493",
+  "round": 9,
+  "date": "2026-09-12",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614484",
+  "round": 9,
+  "date": "2026-09-12",
+  "weekday": "sábado",
+  "time": "20:00",
+  "hour": 20.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614491",
+  "round": 9,
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614497",
+  "round": 9,
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614496",
+  "round": 9,
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614485",
+  "round": 9,
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614492",
+  "round": 9,
+  "date": "2026-09-13",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614488",
+  "round": 9,
+  "date": "2026-09-14",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 3
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614495",
+  "round": 9,
+  "date": "2026-09-14",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614483",
+  "round": 9,
+  "date": "2026-09-14",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614502",
+  "round": 10,
+  "date": "2026-09-18",
+  "weekday": "viernes",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Alfredo Terrera",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614511",
+  "round": 10,
+  "date": "2026-09-18",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614501",
+  "round": 10,
+  "date": "2026-09-19",
+  "weekday": "sábado",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614507",
+  "round": 10,
+  "date": "2026-09-19",
+  "weekday": "sábado",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614504",
+  "round": 10,
+  "date": "2026-09-19",
+  "weekday": "sábado",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614510",
+  "round": 10,
+  "date": "2026-09-19",
+  "weekday": "sábado",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614505",
+  "round": 10,
+  "date": "2026-09-19",
+  "weekday": "sábado",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614503",
+  "round": 10,
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614499",
+  "round": 10,
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614506",
+  "round": 10,
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614512",
+  "round": 10,
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614498",
+  "round": 10,
+  "date": "2026-09-20",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 2
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614509",
+  "round": 10,
+  "date": "2026-09-21",
+  "weekday": "lunes",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614508",
+  "round": 10,
+  "date": "2026-09-21",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614500",
+  "round": 10,
+  "date": "2026-09-21",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614514",
+  "round": 11,
+  "date": "2026-10-02",
+  "weekday": "viernes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 4
+  },
+  "goals": 5,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614515",
+  "round": 11,
+  "date": "2026-10-02",
+  "weekday": "viernes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614525",
+  "round": 11,
+  "date": "2026-10-02",
+  "weekday": "viernes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614516",
+  "round": 11,
+  "date": "2026-10-03",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614519",
+  "round": 11,
+  "date": "2026-10-03",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614524",
+  "round": 11,
+  "date": "2026-10-03",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 3
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614523",
+  "round": 11,
+  "date": "2026-10-04",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614513",
+  "round": 11,
+  "date": "2026-10-04",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614527",
+  "round": 11,
+  "date": "2026-10-04",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614521",
+  "round": 11,
+  "date": "2026-10-04",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614517",
+  "round": 11,
+  "date": "2026-10-05",
+  "weekday": "lunes",
+  "time": "16:45",
+  "hour": 16.75,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614518",
+  "round": 11,
+  "date": "2026-10-05",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614520",
+  "round": 11,
+  "date": "2026-10-05",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614526",
+  "round": 11,
+  "date": "2026-10-05",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614522",
+  "round": 11,
+  "date": "2026-10-14",
+  "weekday": "miércoles",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614540",
+  "round": 12,
+  "date": "2026-10-09",
+  "weekday": "viernes",
+  "time": "14:30",
+  "hour": 14.5,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 3
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614538",
+  "round": 12,
+  "date": "2026-10-09",
+  "weekday": "viernes",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614534",
+  "round": 12,
+  "date": "2026-10-09",
+  "weekday": "viernes",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614533",
+  "round": 12,
+  "date": "2026-10-09",
+  "weekday": "viernes",
+  "time": "21:45",
+  "hour": 21.75,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614539",
+  "round": 12,
+  "date": "2026-10-10",
+  "weekday": "sábado",
+  "time": "15:45",
+  "hour": 15.75,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614531",
+  "round": 12,
+  "date": "2026-10-10",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Estadio Único Madre de Ciudades",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614536",
+  "round": 12,
+  "date": "2026-10-10",
+  "weekday": "sábado",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614541",
+  "round": 12,
+  "date": "2026-10-10",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614532",
+  "round": 12,
+  "date": "2026-10-11",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614528",
+  "round": 12,
+  "date": "2026-10-11",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614537",
+  "round": 12,
+  "date": "2026-10-11",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 5
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 0
+  },
+  "goals": 5,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614542",
+  "round": 12,
+  "date": "2026-10-11",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614535",
+  "round": 12,
+  "date": "2026-10-11",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614529",
+  "round": 12,
+  "date": "2026-10-12",
+  "weekday": "lunes",
+  "time": "16:00",
+  "hour": 16.0,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614530",
+  "round": 12,
+  "date": "2026-10-12",
+  "weekday": "lunes",
+  "time": "18:30",
+  "hour": 18.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614554",
+  "round": 13,
+  "date": "2026-10-15",
+  "weekday": "jueves",
+  "time": "20:00",
+  "hour": 20.0,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614545",
+  "round": 13,
+  "date": "2026-10-16",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614544",
+  "round": 13,
+  "date": "2026-10-16",
+  "weekday": "viernes",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614557",
+  "round": 13,
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614550",
+  "round": 13,
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614556",
+  "round": 13,
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614549",
+  "round": 13,
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "time": "20:00",
+  "hour": 20.0,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614555",
+  "round": 13,
+  "date": "2026-10-17",
+  "weekday": "sábado",
+  "time": "20:00",
+  "hour": 20.0,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 3
+  },
+  "goals": 5,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614543",
+  "round": 13,
+  "date": "2026-10-18",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614547",
+  "round": 13,
+  "date": "2026-10-18",
+  "weekday": "domingo",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614552",
+  "round": 13,
+  "date": "2026-10-18",
+  "weekday": "domingo",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614551",
+  "round": 13,
+  "date": "2026-10-18",
+  "weekday": "domingo",
+  "time": "20:15",
+  "hour": 20.25,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 3
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614548",
+  "round": 13,
+  "date": "2026-10-19",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614553",
+  "round": 13,
+  "date": "2026-10-19",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614546",
+  "round": 13,
+  "date": "2026-10-19",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614569",
+  "round": 14,
+  "date": "2026-10-23",
+  "weekday": "viernes",
+  "time": "18:00",
+  "hour": 18.0,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614559",
+  "round": 14,
+  "date": "2026-10-23",
+  "weekday": "viernes",
+  "time": "18:30",
+  "hour": 18.5,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614567",
+  "round": 14,
+  "date": "2026-10-23",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614558",
+  "round": 14,
+  "date": "2026-10-24",
+  "weekday": "sábado",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614564",
+  "round": 14,
+  "date": "2026-10-24",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614561",
+  "round": 14,
+  "date": "2026-10-24",
+  "weekday": "sábado",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 0
+  },
+  "goals": 0,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614568",
+  "round": 14,
+  "date": "2026-10-24",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614571",
+  "round": 14,
+  "date": "2026-10-25",
+  "weekday": "domingo",
+  "time": "14:45",
+  "hour": 14.75,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614565",
+  "round": 14,
+  "date": "2026-10-25",
+  "weekday": "domingo",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614572",
+  "round": 14,
+  "date": "2026-10-25",
+  "weekday": "domingo",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Monumental",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614560",
+  "round": 14,
+  "date": "2026-10-25",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Estadio Único Madre de Ciudades",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 5
+  },
+  "goals": 5,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614570",
+  "round": 14,
+  "date": "2026-10-25",
+  "weekday": "domingo",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614562",
+  "round": 14,
+  "date": "2026-10-26",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614563",
+  "round": 14,
+  "date": "2026-10-26",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614566",
+  "round": 14,
+  "date": "2026-10-27",
+  "weekday": "martes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614583",
+  "round": 15,
+  "date": "2026-10-30",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Ciudad de Río Cuarto Antonio Candini",
+  "city": "Rio Cuarto",
+  "home": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614585",
+  "round": 15,
+  "date": "2026-10-30",
+  "weekday": "viernes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Tomás Adolfo Ducó",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614581",
+  "round": 15,
+  "date": "2026-10-30",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Presidente Perón (Cilindro de Avellaneda)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614584",
+  "round": 15,
+  "date": "2026-10-30",
+  "weekday": "viernes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Eva Perón",
+  "city": "Junin",
+  "home": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614575",
+  "round": 15,
+  "date": "2026-10-31",
+  "weekday": "sábado",
+  "time": "17:00",
+  "hour": 17.0,
+  "venue": "Guillermo Laza",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 3
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614578",
+  "round": 15,
+  "date": "2026-10-31",
+  "weekday": "sábado",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "José Amalfitani",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614576",
+  "round": 15,
+  "date": "2026-10-31",
+  "weekday": "sábado",
+  "time": "21:30",
+  "hour": 21.5,
+  "venue": "Jorge Luis Hirschi",
+  "city": "La Plata",
+  "home": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 3
+  },
+  "goals": 6,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614573",
+  "round": 15,
+  "date": "2026-11-01",
+  "weekday": "domingo",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614577",
+  "round": 15,
+  "date": "2026-11-01",
+  "weekday": "domingo",
+  "time": "18:30",
+  "hour": 18.5,
+  "venue": "Marcelo Bielsa",
+  "city": "Rosario",
+  "home": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614582",
+  "round": 15,
+  "date": "2026-11-01",
+  "weekday": "domingo",
+  "time": "18:30",
+  "hour": 18.5,
+  "venue": "El Gigante de Alberdi",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614580",
+  "round": 15,
+  "date": "2026-11-01",
+  "weekday": "domingo",
+  "time": "20:45",
+  "hour": 20.75,
+  "venue": "Ciudad de Lanús",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614574",
+  "round": 15,
+  "date": "2026-11-02",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Norberto Tomaghello",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614579",
+  "round": 15,
+  "date": "2026-11-02",
+  "weekday": "lunes",
+  "time": "19:00",
+  "hour": 19.0,
+  "venue": "Ciudad de Vicente López",
+  "city": "Florida, Buenos Aires",
+  "home": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614586",
+  "round": 15,
+  "date": "2026-11-02",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Monumental Presidente José Fierro",
+  "city": "Tucumán",
+  "home": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 2
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614587",
+  "round": 15,
+  "date": "2026-11-02",
+  "weekday": "lunes",
+  "time": "21:15",
+  "hour": 21.25,
+  "venue": "Estadio Bautista Gargantini",
+  "city": "Mendoza",
+  "home": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 3
+  },
+  "away": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 1
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614602",
+  "round": 16,
+  "date": "2026-11-05",
+  "weekday": "jueves",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "José María Minella",
+  "city": "Mar del Plata",
+  "home": {
+   "id": "t8621",
+   "name": "Aldosivi",
+   "crest": "crests/aldosivi.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t608",
+   "name": "River Plate",
+   "crest": "crests/river-plate.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614600",
+  "round": 16,
+  "date": "2026-11-05",
+  "weekday": "jueves",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Juan Carmelo Zerillo (El Bosque)",
+  "city": "La Plata",
+  "home": {
+   "id": "t1392",
+   "name": "Gimnasia La Plata",
+   "crest": "crests/gimnasia-la-plata.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t1313",
+   "name": "Belgrano",
+   "crest": "crests/belgrano.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614601",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Claudio Chiqui Tapia",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t9280",
+   "name": "Barracas Central",
+   "crest": "crests/barracas-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t986",
+   "name": "Racing Club",
+   "crest": "crests/racing-club.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614590",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Nuevo Gasómetro",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2549",
+   "name": "San Lorenzo",
+   "crest": "crests/san-lorenzo.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t3579",
+   "name": "Platense",
+   "crest": "crests/platense.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614591",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "15 de Abril",
+  "city": "Santa Fe",
+  "home": {
+   "id": "t6374",
+   "name": "Unión Santa Fe",
+   "crest": "crests/union-santa-fe.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t570",
+   "name": "Vélez Sarsfield",
+   "crest": "crests/velez-sarsfield.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614594",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "19:15",
+  "hour": 19.25,
+  "venue": "Estadio Libertadores de América",
+  "city": "Avellaneda",
+  "home": {
+   "id": "t1243",
+   "name": "Independiente",
+   "crest": "crests/independiente.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t9319",
+   "name": "Deportivo Riestra",
+   "crest": "crests/deportivo-riestra.png",
+   "goals": 1
+  },
+  "goals": 3,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614596",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "22:00",
+  "hour": 22.0,
+  "venue": "Florencio Solá",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t2451",
+   "name": "Banfield",
+   "crest": "crests/banfield.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t4671",
+   "name": "Atlético Tucumán",
+   "crest": "crests/atletico-tucuman.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614598",
+  "round": 16,
+  "date": "2026-11-06",
+  "weekday": "viernes",
+  "time": "22:00",
+  "hour": 22.0,
+  "venue": "Monumental de Victoria (José Dellagiovanna)",
+  "city": "Provincia de Buenos Aires",
+  "home": {
+   "id": "t2580",
+   "name": "Tigre",
+   "crest": "crests/tigre.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8629",
+   "name": "Sarmiento",
+   "crest": "crests/sarmiento.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614588",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Víctor Antonio Legrotaglie",
+  "city": "Mendoza",
+  "home": {
+   "id": "t10754",
+   "name": "Gimnasia Mendoza",
+   "crest": "crests/gimnasia-mendoza.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8627",
+   "name": "Independiente Rivadavia",
+   "crest": "crests/independiente-rivadavia.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614593",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "15:00",
+  "hour": 15.0,
+  "venue": "Mario Alberto Kempes",
+  "city": "Córdoba",
+  "home": {
+   "id": "t1071",
+   "name": "Talleres de Córdoba",
+   "crest": "crests/talleres-de-cordoba.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t927",
+   "name": "Estudiantes de La Plata",
+   "crest": "crests/estudiantes-de-la-plata.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ },
+ {
+  "id": "g2614595",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Alberto José Armando (La Bombonera)",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t540",
+   "name": "Boca Juniors",
+   "crest": "crests/boca-juniors.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t8625",
+   "name": "Defensa y Justicia",
+   "crest": "crests/defensa-y-justicia.png",
+   "goals": 0
+  },
+  "goals": 1,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614597",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Diego Armando Maradona",
+  "city": "Buenos Aires",
+  "home": {
+   "id": "t846",
+   "name": "Argentinos Juniors",
+   "crest": "crests/argentinos-juniors.png",
+   "goals": 0
+  },
+  "away": {
+   "id": "t2578",
+   "name": "Huracán",
+   "crest": "crests/huracan.png",
+   "goals": 2
+  },
+  "goals": 2,
+  "betImpact": 1.0,
+  "betBrands": 2
+ },
+ {
+  "id": "g2614599",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "17:30",
+  "hour": 17.5,
+  "venue": "Gigante de Arroyito",
+  "city": "Rosario",
+  "home": {
+   "id": "t745",
+   "name": "Rosario Central",
+   "crest": "crests/rosario-central.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t15362",
+   "name": "Estudiantes Río Cuarto",
+   "crest": "crests/estudiantes-rio-cuarto.png",
+   "goals": 0
+  },
+  "goals": 2,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614592",
+  "round": 16,
+  "date": "2026-11-07",
+  "weekday": "sábado",
+  "time": "22:00",
+  "hour": 22.0,
+  "venue": "Estadio Monumental Presidente Perón",
+  "city": "Córdoba",
+  "home": {
+   "id": "t3638",
+   "name": "Instituto",
+   "crest": "crests/instituto.png",
+   "goals": 2
+  },
+  "away": {
+   "id": "t1095",
+   "name": "Newell's Old Boys",
+   "crest": "crests/newell-s-old-boys.png",
+   "goals": 2
+  },
+  "goals": 4,
+  "betImpact": 0.5,
+  "betBrands": 1
+ },
+ {
+  "id": "g2614589",
+  "round": 16,
+  "date": "2026-11-08",
+  "weekday": "domingo",
+  "time": "19:30",
+  "hour": 19.5,
+  "venue": "Estadio Único Madre de Ciudades",
+  "city": "Santiago del Estero",
+  "home": {
+   "id": "t10752",
+   "name": "Central Córdoba (Santiago del Estero)",
+   "crest": "crests/central-cordoba-santiago-del-estero.png",
+   "goals": 1
+  },
+  "away": {
+   "id": "t2473",
+   "name": "Lanús",
+   "crest": "crests/lanus.png",
+   "goals": 1
+  },
+  "goals": 2,
+  "betImpact": 0.0,
+  "betBrands": 0
+ }
+]

@@ -1,0 +1,34 @@
+team_id,team,sponsor,category,industry,region,is_main,is_bet
+t8621,Aldosivi,Rapicuotas,Finanzas,Finanzas,pecho,true,false
+t846,Argentinos Juniors,Mr. Bet,Apuestas Online,Apuestas,pecho,true,true
+t4671,Atlético Tucumán,Caja Popular de Ahorros,Finanzas,Finanzas,pecho_superior,true,false
+t2451,Banfield,Rapicuotas,Finanzas,Finanzas,pecho,true,false
+t9280,Barracas Central,,,Sin sponsor,,false,false
+t1313,Belgrano,Macro,Finanzas,Finanzas,pecho,true,false
+t540,Boca Juniors,Betsson,Apuestas Online,Apuestas,pecho,true,true
+t10752,Central Córdoba (Santiago del Estero),Banco Santiago,Finanzas,Finanzas,pecho,true,false
+t10752,Central Córdoba (Santiago del Estero),Gobierno de Santiago del Estero,Gubernamental,Gubernamental,pecho,false,false
+t8625,Defensa y Justicia,Rapicuotas,Finanzas,Finanzas,pecho,true,false
+t9319,Deportivo Riestra,Speed Unlimited,Alimentos y bebidas,Alimentos y bebidas,pecho,true,false
+t15362,Estudiantes Río Cuarto,Deportes Río Cuarto,Gubernamental,Gubernamental,pecho,true,false
+t927,Estudiantes de La Plata,Supervielle,Finanzas,Finanzas,pecho,true,false
+t1392,Gimnasia La Plata,Correo OCA,Servicios,Servicios,pecho,true,false
+t10754,Gimnasia Mendoza,Macro,Finanzas,Finanzas,pecho,true,false
+t2578,Huracán,Mr. Bet,Apuestas Online,Apuestas,pecho,true,true
+t1243,Independiente,Sportsbet.io,Apuestas Online,Apuestas,pecho,true,true
+t8627,Independiente Rivadavia,Sports Bet AR,Apuestas Online,Apuestas,pecho,true,true
+t3638,Instituto,Macro,Finanzas,Finanzas,pecho,true,false
+t2473,Lanús,Mapei,Química y plásticos,Química y plásticos,pecho,true,false
+t1095,Newell's Old Boys,City Center,Apuestas Online,Apuestas,pecho,true,true
+t3579,Platense,Esco,Finanzas,Finanzas,pecho,true,false
+t3579,Platense,Pax Assistance,Servicios,Servicios,pecho,false,false
+t986,Racing Club,Betsson,Apuestas Online,Apuestas,pecho,true,true
+t608,River Plate,Betano,Apuestas Online,Apuestas,pecho,true,true
+t745,Rosario Central,City Center,Apuestas Online,Apuestas,pecho,true,true
+t2549,San Lorenzo,Casino Buenos Aires,Apuestas Online,Apuestas,pecho,true,true
+t8629,Sarmiento,La Pequeña Familia,Salud,Salud,pecho,false,false
+t8629,Sarmiento,Naldo,Retail y e-commerce,Retail y e-commerce,pecho,true,false
+t1071,Talleres de Córdoba,Holcim,Construcción,Construcción,pecho,true,false
+t2580,Tigre,Macro,Finanzas,Finanzas,pecho,true,false
+t6374,Unión Santa Fe,OSPAT,Organismos y gremios,Organismos y gremios,pecho,true,false
+t570,Vélez Sarsfield,Saphirus,Salud,Salud,pecho,true,false

@@ -1,0 +1,141 @@
+@import 'tailwindcss';
+@plugin 'daisyui' {
+	themes: false;
+}
+
+/*
+ * PALETAS
+ * Se definen dos (journal-light y journal-dark) pero la pagina usa una sola (journal-dark): la del data-theme de app.html.
+ * Cada tema define tambien los colores de los graficos (--impact-*, --match-*); src/lib/constants/colors.ts los referencia.
+ */
+
+/* journal-light: estetica de grafico periodistico (tipo Reuters Graphics). Fondo blanco, tinta casi negra,
+   lineas finas, esquinas rectas y un unico acento naranja. */
+@plugin 'daisyui/theme' {
+	name: 'journal-light';
+	color-scheme: 'light';
+	--color-base-100: #ffffff;
+	--color-base-200: #f4f4f4;
+	--color-base-300: #dcdcdc;
+	--color-base-content: #1a1a1a;
+	--color-primary: #fa6400;
+	--color-primary-content: #ffffff;
+
+	/* colores de los graficos */
+	--impact-0: #b9c0c9;
+	--impact-05: #f5a04a;
+	--impact-1: #c2410c;
+	--match-plain: #3b5b7a;
+	--match-picked: #fa6400;
+	--color-secondary: #3b5b7a;
+	--color-secondary-content: #ffffff;
+	--color-accent: #b9c0c9;
+	--color-accent-content: #1a1a1a;
+	--color-neutral: #1a1a1a;
+	--color-neutral-content: #ffffff;
+	--color-info: #3b5b7a;
+	--color-info-content: #ffffff;
+	--color-success: #2e7d5b;
+	--color-success-content: #ffffff;
+	--color-warning: #f5a04a;
+	--color-warning-content: #1a1a1a;
+	--color-error: #c2410c;
+	--color-error-content: #ffffff;
+	--radius-selector: 0rem;
+	--radius-field: 0rem;
+	--radius-box: 0rem;
+	--size-selector: 0.25rem;
+	--size-field: 0.25rem;
+	--border: 1px;
+	--depth: 0;
+	--noise: 0;
+}
+
+/* journal-dark: el mismo estilo en oscuro. Fondo azulado de cancha de noche, con el naranja como primary. */
+@plugin 'daisyui/theme' {
+	name: 'journal-dark';
+	default: true;
+	color-scheme: 'dark';
+	--color-base-100: #08121d;
+	--color-base-200: #0e1d2d;
+	--color-base-300: #1b3249;
+	--color-base-content: #e6eef5;
+	--color-primary: #ff7a1a;
+	--color-primary-content: #1a0d00;
+
+	/* colores de los graficos */
+	--impact-0: #5d7a96;
+	--impact-05: #f5a04a;
+	--impact-1: #e0561f;
+	--match-plain: #5aa0d8;
+	--match-picked: #ff7a1a;
+	--color-secondary: #4a79be;
+	--color-secondary-content: #ffffff;
+	--color-accent: #8aa4bd;
+	--color-accent-content: #08121d;
+	--color-neutral: #e6eef5;
+	--color-neutral-content: #08121d;
+	--color-info: #5aa0d8;
+	--color-info-content: #06182a;
+	--color-success: #3fb27f;
+	--color-success-content: #06210f;
+	--color-warning: #f5a04a;
+	--color-warning-content: #2a1704;
+	--color-error: #e5675a;
+	--color-error-content: #2a0a07;
+	--radius-selector: 0rem;
+	--radius-field: 0rem;
+	--radius-box: 0rem;
+	--size-selector: 0.25rem;
+	--size-field: 0.25rem;
+	--border: 1px;
+	--depth: 0;
+	--noise: 0;
+}
+
+@theme {
+	--font-sans: 'Source Sans 3', system-ui, sans-serif;
+	--font-serif: 'Source Serif 4', Georgia, serif;
+	--font-heading: 'Source Sans 3', system-ui, sans-serif;
+}
+
+@layer base {
+	html {
+		font-family: var(--font-sans);
+		background: var(--color-base-100);
+		color: var(--color-base-content);
+	}
+	h1 {
+		@apply font-heading font-extrabold tracking-tight;
+	}
+	h2,
+	h3 {
+		@apply font-heading font-bold tracking-tight;
+	}
+}
+
+:root {
+	--dimmed-opacity: 0.12;
+	--viewport-h: 100dvh;
+}
+
+/* Cuerpo de texto en serif, rotulos y graficos en sans */
+.prose-story {
+	font-family: var(--font-serif);
+	font-size: 1.25rem;
+	line-height: 1.55;
+}
+
+.kicker {
+	font-family: var(--font-sans);
+	font-size: 0.75rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--color-primary);
+}
+
+/* Mientras el segundo scrolly esta en pantalla, la pagina "engancha" en su comienzo */
+html.snap-proximity {
+	scroll-snap-type: y proximity;
+}

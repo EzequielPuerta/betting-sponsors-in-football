@@ -1,0 +1,767 @@
+[
+ {
+  "id": "t8621",
+  "slug": "aldosivi",
+  "name": "Aldosivi",
+  "officialName": "CA Aldosivi",
+  "crest": "crests/aldosivi.png",
+  "kit": "kits/aldosivi.jpg",
+  "manufacturer": "Kappa",
+  "sponsor": "Rapicuotas",
+  "mainSponsor": "Rapicuotas",
+  "sponsors": [
+   {
+    "name": "Rapicuotas",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t846",
+  "slug": "argentinos-juniors",
+  "name": "Argentinos Juniors",
+  "officialName": "AA Argentinos Juniors",
+  "crest": "crests/argentinos-juniors.png",
+  "kit": "kits/argentinos-juniors.jpg",
+  "manufacturer": "Umbro",
+  "sponsor": "Mr. Bet",
+  "mainSponsor": "Mr. Bet",
+  "sponsors": [
+   {
+    "name": "Mr. Bet",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Mr. Bet",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t4671",
+  "slug": "atletico-tucuman",
+  "name": "Atlético Tucumán",
+  "officialName": "CA Tucumán",
+  "crest": "crests/atletico-tucuman.png",
+  "kit": "kits/atletico-tucuman.jpg",
+  "manufacturer": "Kappa",
+  "sponsor": "Caja Popular de Ahorros",
+  "mainSponsor": "Caja Popular de Ahorros",
+  "sponsors": [
+   {
+    "name": "Caja Popular de Ahorros",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho_superior"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t2451",
+  "slug": "banfield",
+  "name": "Banfield",
+  "officialName": "CA Banfield",
+  "crest": "crests/banfield.png",
+  "kit": "kits/banfield.jpg",
+  "manufacturer": "Macron",
+  "sponsor": "Rapicuotas",
+  "mainSponsor": "Rapicuotas",
+  "sponsors": [
+   {
+    "name": "Rapicuotas",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t9280",
+  "slug": "barracas-central",
+  "name": "Barracas Central",
+  "officialName": "CA Barracas Central",
+  "crest": "crests/barracas-central.png",
+  "kit": "kits/barracas-central.jpg",
+  "manufacturer": "Retiel",
+  "sponsor": null,
+  "mainSponsor": null,
+  "sponsors": [],
+  "betBrands": []
+ },
+ {
+  "id": "t1313",
+  "slug": "belgrano",
+  "name": "Belgrano",
+  "officialName": "CA Belgrano",
+  "crest": "crests/belgrano.png",
+  "kit": "kits/belgrano.jpg",
+  "manufacturer": "Umbro",
+  "sponsor": "Macro",
+  "mainSponsor": "Macro",
+  "sponsors": [
+   {
+    "name": "Macro",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t540",
+  "slug": "boca-juniors",
+  "name": "Boca Juniors",
+  "officialName": "CA Boca Juniors",
+  "crest": "crests/boca-juniors.png",
+  "kit": "kits/boca-juniors.jpg",
+  "manufacturer": "adidas",
+  "sponsor": "Betsson",
+  "mainSponsor": "Betsson",
+  "sponsors": [
+   {
+    "name": "Betsson",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Betsson",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t10752",
+  "slug": "central-cordoba-santiago-del-estero",
+  "name": "Central Córdoba (Santiago del Estero)",
+  "officialName": "CA Central Córdoba",
+  "crest": "crests/central-cordoba-santiago-del-estero.png",
+  "kit": "kits/central-cordoba-santiago-del-estero.jpg",
+  "manufacturer": "Adhoc",
+  "sponsor": "Banco Santiago",
+  "mainSponsor": "Banco Santiago",
+  "sponsors": [
+   {
+    "name": "Banco Santiago",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   },
+   {
+    "name": "Gobierno de Santiago del Estero",
+    "category": "Gubernamental",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t8625",
+  "slug": "defensa-y-justicia",
+  "name": "Defensa y Justicia",
+  "officialName": "CSD Defensa y Justicia",
+  "crest": "crests/defensa-y-justicia.png",
+  "kit": "kits/defensa-y-justicia.jpg",
+  "manufacturer": "KDY",
+  "sponsor": "Rapicuotas",
+  "mainSponsor": "Rapicuotas",
+  "sponsors": [
+   {
+    "name": "Rapicuotas",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t9319",
+  "slug": "deportivo-riestra",
+  "name": "Deportivo Riestra",
+  "officialName": "CD Riestra",
+  "crest": "crests/deportivo-riestra.png",
+  "kit": "kits/deportivo-riestra.jpg",
+  "manufacturer": "adidas",
+  "sponsor": "Speed Unlimited",
+  "mainSponsor": "Speed Unlimited",
+  "sponsors": [
+   {
+    "name": "Speed Unlimited",
+    "category": "Alimentos y bebidas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t15362",
+  "slug": "estudiantes-rio-cuarto",
+  "name": "Estudiantes Río Cuarto",
+  "officialName": "AA Estudiantes de Río Cuarto",
+  "crest": "crests/estudiantes-rio-cuarto.png",
+  "kit": "kits/estudiantes-rio-cuarto.jpg",
+  "manufacturer": "IFK",
+  "sponsor": "Deportes Río Cuarto",
+  "mainSponsor": "Deportes Río Cuarto",
+  "sponsors": [
+   {
+    "name": "Deportes Río Cuarto",
+    "category": "Gubernamental",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t927",
+  "slug": "estudiantes-de-la-plata",
+  "name": "Estudiantes de La Plata",
+  "officialName": "Club Estudiantes de La Plata",
+  "crest": "crests/estudiantes-de-la-plata.png",
+  "kit": "kits/estudiantes-de-la-plata.jpg",
+  "manufacturer": "Ruge",
+  "sponsor": "Supervielle",
+  "mainSponsor": "Supervielle",
+  "sponsors": [
+   {
+    "name": "Supervielle",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t1392",
+  "slug": "gimnasia-la-plata",
+  "name": "Gimnasia La Plata",
+  "officialName": "Club de Gimnasia y Esgrima La Plata",
+  "crest": "crests/gimnasia-la-plata.png",
+  "kit": "kits/gimnasia-la-plata.jpg",
+  "manufacturer": "Givova",
+  "sponsor": "Correo OCA",
+  "mainSponsor": "Correo OCA",
+  "sponsors": [
+   {
+    "name": "Correo OCA",
+    "category": "Servicios",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t10754",
+  "slug": "gimnasia-mendoza",
+  "name": "Gimnasia Mendoza",
+  "officialName": "CA Gimnasia y Esgrima de Mendoza",
+  "crest": "crests/gimnasia-mendoza.png",
+  "kit": "kits/gimnasia-mendoza.jpg",
+  "manufacturer": "Mitre",
+  "sponsor": null,
+  "mainSponsor": "Macro",
+  "sponsors": [
+   {
+    "name": "Macro",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t2578",
+  "slug": "huracan",
+  "name": "Huracán",
+  "officialName": "CA Huracán",
+  "crest": "crests/huracan.png",
+  "kit": "kits/huracan.jpg",
+  "manufacturer": "Kappa",
+  "sponsor": "Mr. Bet",
+  "mainSponsor": "Mr. Bet",
+  "sponsors": [
+   {
+    "name": "Mr. Bet",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Mr. Bet",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t1243",
+  "slug": "independiente",
+  "name": "Independiente",
+  "officialName": "CA Independiente",
+  "crest": "crests/independiente.png",
+  "kit": "kits/independiente.jpg",
+  "manufacturer": "Puma",
+  "sponsor": "Sportsbet.io",
+  "mainSponsor": "Sportsbet.io",
+  "sponsors": [
+   {
+    "name": "Sportsbet.io",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Sportsbet.io",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t8627",
+  "slug": "independiente-rivadavia",
+  "name": "Independiente Rivadavia",
+  "officialName": "CS Independiente Rivadavia",
+  "crest": "crests/independiente-rivadavia.png",
+  "kit": "kits/independiente-rivadavia.jpg",
+  "manufacturer": "OneFit",
+  "sponsor": "Sports Bet AR",
+  "mainSponsor": "Sports Bet AR",
+  "sponsors": [
+   {
+    "name": "Sports Bet AR",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Sports Bet AR",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t3638",
+  "slug": "instituto",
+  "name": "Instituto",
+  "officialName": "Instituto AC Córdoba",
+  "crest": "crests/instituto.png",
+  "kit": "kits/instituto.jpg",
+  "manufacturer": "Givova",
+  "sponsor": "Macro",
+  "mainSponsor": "Macro",
+  "sponsors": [
+   {
+    "name": "Macro",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t2473",
+  "slug": "lanus",
+  "name": "Lanús",
+  "officialName": "CA Lanús",
+  "crest": "crests/lanus.png",
+  "kit": "kits/lanus.jpg",
+  "manufacturer": "Umbro",
+  "sponsor": "Mapei",
+  "mainSponsor": "Mapei",
+  "sponsors": [
+   {
+    "name": "Mapei",
+    "category": "Química y plásticos",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t1095",
+  "slug": "newell-s-old-boys",
+  "name": "Newell's Old Boys",
+  "officialName": "CA Newell's Old Boys",
+  "crest": "crests/newell-s-old-boys.png",
+  "kit": "kits/newell-s-old-boys.jpg",
+  "manufacturer": "OneFit",
+  "sponsor": "City Center",
+  "mainSponsor": "City Center",
+  "sponsors": [
+   {
+    "name": "City Center",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "City Center",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t3579",
+  "slug": "platense",
+  "name": "Platense",
+  "officialName": "CA Platense",
+  "crest": "crests/platense.png",
+  "kit": "kits/platense.jpg",
+  "manufacturer": "Puma",
+  "sponsor": "Esco",
+  "mainSponsor": "Esco",
+  "sponsors": [
+   {
+    "name": "Esco",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   },
+   {
+    "name": "Pax Assistance",
+    "category": "Servicios",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t986",
+  "slug": "racing-club",
+  "name": "Racing Club",
+  "officialName": "Racing Club",
+  "crest": "crests/racing-club.png",
+  "kit": "kits/racing-club.jpg",
+  "manufacturer": "Nike",
+  "sponsor": "Betsson",
+  "mainSponsor": "Betsson",
+  "sponsors": [
+   {
+    "name": "Betsson",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Betsson",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t608",
+  "slug": "river-plate",
+  "name": "River Plate",
+  "officialName": "River Plate",
+  "crest": "crests/river-plate.png",
+  "kit": "kits/river-plate.jpg",
+  "manufacturer": "adidas",
+  "sponsor": "Betano",
+  "mainSponsor": "Betano",
+  "sponsors": [
+   {
+    "name": "Betano",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Betano",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t745",
+  "slug": "rosario-central",
+  "name": "Rosario Central",
+  "officialName": "CA Rosario Central",
+  "crest": "crests/rosario-central.png",
+  "kit": "kits/rosario-central.jpg",
+  "manufacturer": "Le Coq Sportif",
+  "sponsor": "City Center",
+  "mainSponsor": "City Center",
+  "sponsors": [
+   {
+    "name": "City Center",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "City Center",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t2549",
+  "slug": "san-lorenzo",
+  "name": "San Lorenzo",
+  "officialName": "CA San Lorenzo de Almagro",
+  "crest": "crests/san-lorenzo.png",
+  "kit": "kits/san-lorenzo.jpg",
+  "manufacturer": "Atomik",
+  "sponsor": "Casino Buenos Aires",
+  "mainSponsor": "Casino Buenos Aires",
+  "sponsors": [
+   {
+    "name": "Casino Buenos Aires",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": [
+   {
+    "name": "Casino Buenos Aires",
+    "category": "Apuestas Online",
+    "isBet": true,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "t8629",
+  "slug": "sarmiento",
+  "name": "Sarmiento",
+  "officialName": "CA Sarmiento",
+  "crest": "crests/sarmiento.png",
+  "kit": "kits/sarmiento.jpg",
+  "manufacturer": "Kion",
+  "sponsor": "Naldo",
+  "mainSponsor": "Naldo",
+  "sponsors": [
+   {
+    "name": "La Pequeña Familia",
+    "category": "Salud",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   },
+   {
+    "name": "Naldo",
+    "category": "Retail y e-commerce",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t1071",
+  "slug": "talleres-de-cordoba",
+  "name": "Talleres de Córdoba",
+  "officialName": "CA Talleres",
+  "crest": "crests/talleres-de-cordoba.png",
+  "kit": "kits/talleres-de-cordoba.jpg",
+  "manufacturer": "Le Coq Sportif",
+  "sponsor": "Holcim",
+  "mainSponsor": "Holcim",
+  "sponsors": [
+   {
+    "name": "Holcim",
+    "category": "Construcción",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t2580",
+  "slug": "tigre",
+  "name": "Tigre",
+  "officialName": "CA Tigre",
+  "crest": "crests/tigre.png",
+  "kit": "kits/tigre.jpg",
+  "manufacturer": "Kappa",
+  "sponsor": "Macro",
+  "mainSponsor": "Macro",
+  "sponsors": [
+   {
+    "name": "Macro",
+    "category": "Finanzas",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t6374",
+  "slug": "union-santa-fe",
+  "name": "Unión Santa Fe",
+  "officialName": "CA Unión",
+  "crest": "crests/union-santa-fe.png",
+  "kit": "kits/union-santa-fe.jpg",
+  "manufacturer": "Givova",
+  "sponsor": "OSPAT",
+  "mainSponsor": "OSPAT",
+  "sponsors": [
+   {
+    "name": "OSPAT",
+    "category": "Organismos y gremios",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ },
+ {
+  "id": "t570",
+  "slug": "velez-sarsfield",
+  "name": "Vélez Sarsfield",
+  "officialName": "CA Vélez Sarsfield",
+  "crest": "crests/velez-sarsfield.png",
+  "kit": "kits/velez-sarsfield.jpg",
+  "manufacturer": "Macron",
+  "sponsor": "Saphirus",
+  "mainSponsor": "Saphirus",
+  "sponsors": [
+   {
+    "name": "Saphirus",
+    "category": "Salud",
+    "isBet": false,
+    "regions": [
+     "pecho"
+    ]
+   }
+  ],
+  "betBrands": []
+ }
+]
