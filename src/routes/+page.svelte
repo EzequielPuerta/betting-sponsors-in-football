@@ -6,6 +6,7 @@
 	import Hero from '$lib/components/Hero.svelte';
 	import TextBlock from '$lib/components/TextBlock.svelte';
 	import ScrollGate from './ScrollGate.svelte';
+	import Intro from './sections/intro/Intro.svelte';
 	import Pick from './sections/pick/Pick.svelte';
 	import Results from './sections/result/Results.svelte';
 	import Impact from './sections/impact/Impact.svelte';
@@ -30,9 +31,12 @@
 	<Hero
 		kicker="Fútbol argentino y apuestas online"
 		title="La camiseta no se mancha"
-		deck="Elegí cinco partidos de la Liga Profesional al azar y fijate qué camisetas tenían una casa de apuestas en el pecho."
+		deck="Casas de apuestas en el fútbol y ludopatía."
 		byline="Liga Profesional de Fútbol de AFA, Football Kit Archive"
+		video="video/hero-collage.mp4"
 	/>
+
+	<Intro />
 
 	<TextBlock>
 		<p>
